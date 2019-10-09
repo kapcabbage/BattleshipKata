@@ -27,6 +27,7 @@ namespace Battleship
                 }
                 else
                 {
+                    Console.WriteLine("Exiting...");
                     break;
                 }
             }
